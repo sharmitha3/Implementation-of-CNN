@@ -21,8 +21,10 @@ Reshape: Adjust the image dimensions to include a color channel.
 Normalize: Scale the pixel values to a range between 0 and 1.
 ### STEP 5:
 Set Up Early Stopping
-###
-## PROGRAM
+### STEP 6:
+Create the Convolutional Model
+### STEP 7:
+Instantiate and Train the Model
 
 ### Name: SHARMITHA V
 ### Register Number: 212223110048
@@ -109,4 +111,4 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 ![image](https://github.com/user-attachments/assets/7cddde1a-6358-459a-bd7b-28d86100cd52)
 
 ## RESULT
-Include your result here.
+A convolutional deep neural network for digit classification has been successfully implemented
