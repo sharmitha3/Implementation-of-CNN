@@ -13,13 +13,18 @@ Include the neural network model diagram.(http://alexlenail.me/NN-SVG/index.html
 ## DESIGN STEPS
 
 ### STEP 1:
-Write your own steps
+Import the necessary libraries for handling data and building the model.
 
 ### STEP 2:
-
+Download and load the MNIST dataset, which includes images and labels.
 ### STEP 3:
-
-
+Examine and record the shape of the data to understand its structure.
+### STEP 4:
+Reshape: Adjust the image dimensions to include a color channel.
+Normalize: Scale the pixel values to a range between 0 and 1.
+### STEP 5:
+Set Up Early Stopping
+###
 ## PROGRAM
 
 ### Name: SHARMITHA V
