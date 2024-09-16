@@ -1,10 +1,7 @@
 # Implementation-of-CNN
  
 ## AIM
-
 To Develop a convolutional deep neural network for digit classification.
-
-## Problem Statement and Dataset
 
 ## Neural Network Model
 
