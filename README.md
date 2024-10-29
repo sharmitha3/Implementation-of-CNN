@@ -4,7 +4,12 @@
 To Develop a convolutional deep neural network for digit classification.
 
 ## Problem Statement and Dataset
-Develop a model that can classify images of handwritten digits (0-9) from the MNIST dataset with high accuracy. The model should use a convolutional neural network architecture and be optimized using early stopping to avoid overfitting.
+The goal of this project is to develop a Convolutional Neural Network (CNN) to classify handwritten digits using the MNIST dataset. Handwritten digit classification is a fundamental task in image processing and machine learning, with various applications such as postal code recognition, bank check processing, and optical character recognition systems.
+
+The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0-9), totaling 60,000 training images and 10,000 test images. The challenge is to train a deep learning model that accurately classifies the images into the corresponding digits.
+
+![image](https://github.com/user-attachments/assets/6f4fcb2c-b0ea-4003-9a93-ecb68044b36e)
+
 
 ## Neural Network Model
 ![image](https://github.com/user-attachments/assets/55db60b4-ee44-4b17-87a0-4fff3ca8a9aa)
@@ -106,7 +111,8 @@ training_history = model.fit(training_images, training_labels, epochs=10, callba
 
 ### Reshape and Normalize output
 
-![image](https://github.com/user-attachments/assets/2371e89a-29b6-45d7-9880-bdf4cb405f28)
+![image](https://github.com/user-attachments/assets/08336969-d091-4131-9947-5f1d2966c0e9)
+
 
 ### Training the model output
 
