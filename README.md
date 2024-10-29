@@ -3,6 +3,9 @@
 ## AIM
 To Develop a convolutional deep neural network for digit classification.
 
+## Problem Statement and Dataset
+Develop a model that can classify images of handwritten digits (0-9) from the MNIST dataset with high accuracy. The model should use a convolutional neural network architecture and be optimized using early stopping to avoid overfitting.
+
 ## Neural Network Model
 ![image](https://github.com/user-attachments/assets/55db60b4-ee44-4b17-87a0-4fff3ca8a9aa)
 
